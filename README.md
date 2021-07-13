@@ -22,23 +22,21 @@ H.J.Specht,Thermal Dileptons from Hot and Dense Strongly Interacting Matter", AI
 
 <h4> Projections for CBM at SIS100 and NA60+ at SPS <h4>
 <h6>
-     CBM Au-Au <br/>
-     T. Galatyuk, “Future facilities for high mB physics,” Nucl. Phys. A982 (2019) 163 <br/>
-     sqrt s=3.27 GeV Ts=136+-1.77 MeV <br/>
-     sqrt s=3.79 GeV Ts=145+-1.89 MeV <br/>
-     sqrt s=4.29 GeV Ts=154+-2 MeV <br/>
-     sqrt s=4.98 GeV Ts=159+-2.07 MeV <br/>
+      CBM Au-Au <br/>
+      T. Galatyuk, “Future facilities for high mB physics,” Nucl. Phys. A982 (2019) 163 <br/>
+      sqrt s=3.27 GeV Ts=136+-1.77 MeV <br/>
+      sqrt s=3.79 GeV Ts=145+-1.89 MeV <br/>
+      sqrt s=4.29 GeV Ts=154+-2 MeV <br/>
+      sqrt s=4.98 GeV Ts=159+-2.07 MeV <br/>
 <h6>
-     NA60+ Pb-Pb <br/>
-     G. Usai private communication 24 April 2018 <br/>
-     sqrt s=6.3  GeV Ts=159+-2 MeV <br/>
-     sqrt s=8.8  GeV Ts=166+-3 MeV <br/>
-     sqrt s=17.3 GeV Ts=181+-6 MeV <br/>
+      NA60+ Pb-Pb <br/>
+      G. Usai private communication 24 April 2018 <br/>
+      sqrt s=6.3  GeV Ts=159+-2 MeV <br/>
+      sqrt s=8.8  GeV Ts=166+-3 MeV <br/>
+      sqrt s=17.3 GeV Ts=181+-6 MeV <br/>
      
-
-
 <h4> Model calculations sqrt s > 6 GeV
-<h6> R. Rapp and H.v. Hess, "Thermal Dileptons as Fireball Thermometer and Chronometer", Phys.Lett.B 753 (2016) 586-590 <br/>
+<h6> R. Rapp and H.v. Hess, "Thermal Dileptons as Fireball Thermometer and Chronometer", Phys.Lett.B 753 (2016) 586-590
 <h4> Initial temperature
 <h6>
  sqrt s = 6.3  GeV  Ti = 185+12-8  MeV  <br/>
@@ -55,7 +53,7 @@ H.J.Specht,Thermal Dileptons from Hot and Dense Strongly Interacting Matter", AI
  sqrt s = 200  GeV  Ts = 255+16.9-12.5   MeV <br/>
 
 <h4> Model calculations sqrt s < 6 GeV
-<h6> T. Galatyuk, P. M. Hohler, R. Rapp, F. Seck, J. Stroth, "Thermal Dileptons from Coarse-Grained Transport as Fireball Probes at SIS Energies", Eur. Phys. J. A52 (5) (2016) 131  <br/>
+<h6> T. Galatyuk, P. M. Hohler, R. Rapp, F. Seck, J. Stroth, "Thermal Dileptons from Coarse-Grained Transport as Fireball Probes at SIS Energies", Eur. Phys. J. A52 (5) (2016) 131
 <h4> IMR Slope temperature
 <h6> sqrt s = 2.1 GeV Ts = 43+-1.7    MeV  <br/>
  sqrt s = 2.4 GeV Ts = 84+-3.4    MeV  <br/>
